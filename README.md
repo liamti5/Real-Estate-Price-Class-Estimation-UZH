@@ -1,1 +1,8 @@
-# Group4
+# UZH Introduction to Machine Learning - Group 4
+
+Team members:
+* Janice
+* Valentin Leuthard 
+* Nico Reding
+* Andrin Reding
+* Liam Tessendorf (20-701-348)
