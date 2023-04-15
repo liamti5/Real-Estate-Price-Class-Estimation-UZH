@@ -1,7 +1,7 @@
 # UZH Introduction to Machine Learning - Group 4
 
 Team members:
-* Janice
+* Janice Herman
 * Valentin Leuthard 
 * Nico Reding
 * Andrin Reding
